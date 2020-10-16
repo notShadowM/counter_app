@@ -4,7 +4,7 @@ import Header from "./Header";
 import Item from "./Main/Item";
 import "./Style.css";
 
-import { faSyncAlt, faShoppingCart } from "@fortawesome/free-solid-svg-icons";
+import { faSyncAlt } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class Container extends Component {
